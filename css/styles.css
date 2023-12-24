@@ -72,12 +72,11 @@ ul {
 .header-address-list-link {
   color: var(--SLATE, #434455);
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address-list {
+.header-address-list-link {
   font-style: normal;
 }
 

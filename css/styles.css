@@ -38,7 +38,7 @@ ul {
 
 .header-logo {
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -47,7 +47,7 @@ ul {
 }
 .header-logo-blue {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -180,7 +180,7 @@ ul {
 }
 .footer-logo {
   color: var(--CLOUD, #f4f4fd);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -190,7 +190,7 @@ ul {
 }
 .footer-logo-blue {
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;

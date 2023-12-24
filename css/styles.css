@@ -68,15 +68,16 @@ ul {
 .header-address-list-link:focus {
   color: #404bbf;
 }
-.header-address {
-  font-style: normal;
-}
+
 .header-address-list-link {
   color: var(--SLATE, #434455);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.header-address {
+  font-style: normal;
 }
 
 /*------------------------------------------------*/
